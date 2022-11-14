@@ -1,8 +1,4 @@
-// Name:-    Aashita Kesarwani
-// Class:-   Integrated M.Sc. in App. Maths (III rd year)
-// 			 Indian Institute of Technology, Roorkee
-// Date:-    27 th April, 2010
-// Project:- Huffmann Coding for text compression
+
 #include <iostream>
 #include <cmath>
 using namespace std;
